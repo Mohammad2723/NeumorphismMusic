@@ -174,7 +174,7 @@ class PlayingNowActivity : AppCompatActivity(), SeekBar.OnSeekBarChangeListener 
 
                 while (current < max) {
                     try {
-                        sleep(500)
+                        sleep(100)
                         current = StaticData.mediaPlayer.currentPosition
                         binding.progress.progress = current
 
