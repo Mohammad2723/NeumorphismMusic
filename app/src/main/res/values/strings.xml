@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeumorphismMusic</string>
+    <string name="music_list">Music List</string>
+    <string name="todo">TODO</string>
+</resources>
