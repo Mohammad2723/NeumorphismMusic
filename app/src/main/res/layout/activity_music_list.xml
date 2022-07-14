@@ -35,6 +35,7 @@
         app:layout_constraintBottom_toTopOf="@id/miniMusicLay" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_marginBottom="10dp"
         android:id="@+id/miniMusicLay"
         android:layout_width="match_parent"
         android:layout_height="70dp"
@@ -44,11 +45,12 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <androidx.constraintlayout.utils.widget.ImageFilterView
+            android:layout_marginTop="8dp"
             app:saturation="0.0"
             android:id="@+id/actionBarCover"
             android:layout_width="60dp"
             android:layout_height="60dp"
-            android:layout_marginStart="5dp"
+            android:layout_marginStart="20dp"
             android:contentDescription="@string/todo"
             android:scaleType="centerCrop"
             android:src="@drawable/music_24"
@@ -58,6 +60,8 @@
             app:tint="@color/primary_text" />
 
         <TextView
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
             android:id="@+id/titleText"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -71,6 +75,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <soup.neumorphism.NeumorphImageButton
+            android:layout_marginEnd="20dp"
             android:id="@+id/arrow"
             android:layout_width="50dp"
             android:layout_height="50dp"
