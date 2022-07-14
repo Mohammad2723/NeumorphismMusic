@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/activity_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/row_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/app/src/main/res/layout/activity_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/Mohammad/Desktop/NeumorphismMusic/app/src/main/res/layout/row_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/NeumorphismMusic/app/src/main/res/drawable/bg_progress.xml" value="0.2675" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/NeumorphismMusic/app/src/main/res/layout-land/activity_main.xml" value="0.4125" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/NeumorphismMusic/app/src/main/res/layout/activity_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/NeumorphismMusic/app/src/main/res/layout/row_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/drawable/bg_progress.xml" value="0.2675" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/drawable/ic_baseline_skip_previous_24.xml" value="0.2675" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/activity_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/NeumorphismMusic/app/src/main/res/layout/row_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/drawable/bg_progress.xml" value="0.322" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/drawable/border.xml" value="0.2645" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/drawable/music_24.xml" value="0.2325" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/layout/activity_main.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/layout/activity_music_list.xml" value="0.30512820512820515" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/layout/activity_playing_now.xml" value="0.3017094017094017" />
+        <entry key="..\:/Users/a/Desktop/NeumorphismMusic/app/src/main/res/layout/row_music_list.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
